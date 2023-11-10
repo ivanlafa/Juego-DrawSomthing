@@ -17,10 +17,11 @@ namespace JuegoDrawSomthing
             Console.Clear();
 
 
-            Console.WriteLine("Ingresa 12 Palabras para comnzara a jugar:");
+            Console.WriteLine("Ingresa 12 Palabras para comnzara a jugar:\n" +
+                "Por ejemplo: (TJEUINGRTSDA)");
             string letrasDisponibles = Console.ReadLine().ToUpper();
 
-            Console.WriteLine("Ingresa la longitud de la palabra a buscar:");
+            Console.WriteLine("Ingresa la longitud de la palabra a buscar: ");
             int longitudPalabra = int.Parse(Console.ReadLine());
 
             List<string> palabrasPosibles = GenerarPalabras(letrasDisponibles, longitudPalabra);
