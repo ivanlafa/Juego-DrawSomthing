@@ -1,0 +1,7 @@
+C:\Udemy\JuegoDrawSomthing\JuegoDrawSomthing\bin\Debug\JuegoDrawSomthing.exe.config
+C:\Udemy\JuegoDrawSomthing\JuegoDrawSomthing\bin\Debug\JuegoDrawSomthing.exe
+C:\Udemy\JuegoDrawSomthing\JuegoDrawSomthing\bin\Debug\JuegoDrawSomthing.pdb
+C:\Udemy\JuegoDrawSomthing\JuegoDrawSomthing\obj\Debug\JuegoDrawSomthing.csproj.AssemblyReference.cache
+C:\Udemy\JuegoDrawSomthing\JuegoDrawSomthing\obj\Debug\JuegoDrawSomthing.csproj.CoreCompileInputs.cache
+C:\Udemy\JuegoDrawSomthing\JuegoDrawSomthing\obj\Debug\JuegoDrawSomthing.exe
+C:\Udemy\JuegoDrawSomthing\JuegoDrawSomthing\obj\Debug\JuegoDrawSomthing.pdb
